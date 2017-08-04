@@ -12,7 +12,5 @@ Apache 2.0
 Copyright Docker Inc 
 
 gogularaja
-build_aug4_1
-raja
-raja
-1234
+
+latest build aug4
