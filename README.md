@@ -9,10 +9,4 @@ Apache 2.0
 
 ## Copyright
 
-Copyright Docker Inc 
-
-gogularaja
-
-latest build aug4
-
-final
+Copyright Docker Inc
